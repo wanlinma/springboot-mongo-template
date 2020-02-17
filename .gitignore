@@ -1,0 +1,9 @@
+**.idea/
+**.iml
+**logs/
+**.mvn
+**HELP.md
+**mv*
+**sh*
+**target/
+*.log
